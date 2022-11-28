@@ -1,0 +1,4 @@
+"transcripts","student_id","java.lang.String","False","False","43-0000","99-9999"
+"transcripts","course_name","java.lang.String","False","False","AAAAAA","zzzzzz"
+"transcripts","date_passed","java.util.Date","False","False","1990-01-01","2020-12-31"
+"transcripts","gpa","java.lang.Double","True","False","0.7","5.0"

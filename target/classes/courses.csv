@@ -1,0 +1,4 @@
+"courses","course_name","java.lang.String","False","False","AAAAAA","zzzzzz"
+"courses","course_id","java.lang.String","False","False","0000","9999"
+"courses","date_added","java.util.Date","True","False","1901-01-01","2020-12-31"
+"courses","hours","java.lang.Integer","False","False","1","24"

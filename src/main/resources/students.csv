@@ -1,0 +1,5 @@
+"students","id","java.lang.String","True","False","43-0000","99-9999"
+"students","dob","java.util.Date","False","False","1990-01-01","2000-12-31"
+"students","first_name","java.lang.String","False","False","AAAAAA","zzzzzz"
+"students","last_name","java.lang.String","False","False","AAAAAA","zzzzzz"
+"students","gpa","java.lang.Double","False","False","0.7","5.0"
